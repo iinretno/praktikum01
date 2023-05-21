@@ -10,5 +10,9 @@
 public class MahasiswaAksi {
     public static void main(String[] args){
         Mahasiswa Harry = new Mahasiswa();
+        
+        Harry.nama="Harry Potter";
+        Harry.NPM="2110010291";
+        Harry.IPK="3.6";
     }
 }
